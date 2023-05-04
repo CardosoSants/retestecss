@@ -86,8 +86,40 @@ section h2{
     background-color:lightblue
 }
 
+#saude{
+    background-color: rgb(111, 224, 120);
+}
+
 .articles article a{
     background-color: blue;
+    color: aliceblue;
+    padding: 8px;
+    display: inline-block;
+}
+
+#sports a{
+    background-color: rgb(30, 153, 19);
+    color: aliceblue;
+    padding: 8px;
+    display: inline-block;
+}
+
+#economy a{
+    background-color: rgb(44, 20, 180);
+    color: aliceblue;
+    padding: 8px;
+    display: inline-block;
+}
+
+#tech a{
+    background-color: rgb(194, 47, 174);
+    color: aliceblue;
+    padding: 8px;
+    display: inline-block;
+}
+
+#saude a{
+    background-color: rgb(212, 20, 20);
     color: aliceblue;
     padding: 8px;
     display: inline-block;
